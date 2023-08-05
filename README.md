@@ -17,5 +17,5 @@ The MP3 Player project using Tkinter is an interactive and user-friendly graphic
 
 - Python 3.x
 - Tkinter (usually comes bundled with Python)
-- Pygame ('pip install pygame')
-- Mutagen ('pip install mutagen')
+- Pygame (installed using **pip install pygame** command in your terminal)
+- Mutagen (installed using **pip install mutagen** command in your terminal)
